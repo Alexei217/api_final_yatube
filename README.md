@@ -74,7 +74,7 @@ python3 manage.py runserver
 ![1](images/group/1.jpg)
 
 - ### **Подписки:**
-![1](images/Follow/1.jpg)
+![1](images/follow/1.jpg)
 
 - ### **JWT-токены:**
 ![1](images/jwt/1.jpg)
