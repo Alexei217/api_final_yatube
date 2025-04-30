@@ -78,5 +78,5 @@ python3 manage.py runserver
 
 - ### **JWT-токены:**
 ![1](images/jwt/1.jpg)
-![2](images/jwt/1.jpg)
-![3](images/jwt/1.jpg)
+![2](images/jwt/2.jpg)
+![3](images/jwt/3.jpg)
